@@ -1,0 +1,30 @@
+{
+  "name": "countries-list-as-georgian",
+  "version": "1.0.1",
+  "description": "Countries list with flags ( English/Georgian )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dunkman32/countries-list-as-georgian.git"
+  },
+  "keywords": [
+    "countries-list-as-georgian",
+    "latinToGeorgian",
+    "EnglishToGeorgian",
+    "transliteration",
+    "Georgian",
+    "ქართული",
+    "ინგლისური",
+    "countries list",
+    "ქვეყნების სია"
+  ],
+  "author": "nozza - dunkman32",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dunkman32/countries-list-as-georgian/issues"
+  },
+  "homepage": "https://github.com/dunkman32/countries-list-as-georgian#readme"
+}
