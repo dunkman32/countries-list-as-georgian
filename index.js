@@ -1,1802 +1,2002 @@
 export default [
     {
         "id": 1,
-        "shortName": "AD",
+        "nameEN": "ANDORRA",
+        "nameGE": "ანდორა",
         "emoji": "🇦🇩",
         "code": "+376",
-        "nameEN": "Andorra",
-        "nameGE": "ანდორა"
+        "shortName": "AD"
     },
     {
         "id": 2,
-        "shortName": "AE",
+        "nameEN": "UNITED ARAB EMIRATES",
+        "nameGE": "არაბთა გაერთიანებული საამიროები",
         "emoji": "🇦🇪",
         "code": "+971",
-        "nameEN": "United Arab Emirates",
-        "nameGE": "არაბთა გაერთიანებული საემიროები"
+        "shortName": "AE"
     },
     {
         "id": 3,
-        "shortName": "AF",
+        "nameEN": "AFGHANISTAN",
+        "nameGE": "ავღანეთი",
         "emoji": "🇦🇫",
         "code": "+93",
-        "nameEN": "Afghanistan",
-        "nameGE": "ავღანეთი"
+        "shortName": "AF"
     },
     {
         "id": 4,
-        "shortName": "AI",
-        "emoji": "🇦🇮",
-        "code": "+1264",
-        "nameEN": "Anguilla",
-        "nameGE": "ანგვილა"
+        "nameEN": "ANTIGUA AND BARBUDA",
+        "nameGE": "ანტიგუა-ბარბუდა",
+        "emoji": null,
+        "code": null,
+        "shortName": "AG"
     },
     {
         "id": 5,
-        "shortName": "AL",
-        "emoji": "🇦🇱",
-        "code": "+355",
-        "nameEN": "Albania",
-        "nameGE": "ალბანეთი"
+        "nameEN": "ANGUILLA",
+        "nameGE": "ანგილია",
+        "emoji": "🇦🇮",
+        "code": "+1264",
+        "shortName": "AI"
     },
     {
         "id": 6,
-        "shortName": "AM",
-        "emoji": "🇦🇲",
-        "code": "+374",
-        "nameEN": "Armenia",
-        "nameGE": "სომხეთი"
+        "nameEN": "ALBANIA",
+        "nameGE": "ალბანეთი",
+        "emoji": "🇦🇱",
+        "code": "+355",
+        "shortName": "AL"
     },
     {
         "id": 7,
-        "shortName": "AO",
-        "emoji": "🇦🇴",
-        "code": "+244",
-        "nameEN": "Angola",
-        "nameGE": "ანგოლა"
+        "nameEN": "ARMENIA",
+        "nameGE": "სომხეთი",
+        "emoji": "🇦🇲",
+        "code": "+374",
+        "shortName": "AM"
     },
     {
         "id": 8,
-        "shortName": "AQ",
-        "emoji": "🇦🇶",
-        "code": "+672",
-        "nameEN": "Antarctica",
-        "nameGE": "ანტარქტიდა"
+        "nameEN": "NETHERLANDS ANTILLES",
+        "nameGE": "",
+        "emoji": null,
+        "code": null,
+        "shortName": "AN"
     },
     {
         "id": 9,
-        "shortName": "AR",
-        "emoji": "🇦🇷",
-        "code": "+54",
-        "nameEN": "Argentina",
-        "nameGE": "არგენტინა"
+        "nameEN": "ANGOLA",
+        "nameGE": "ანგოლა",
+        "emoji": "🇦🇴",
+        "code": "+244",
+        "shortName": "AO"
     },
     {
         "id": 10,
-        "shortName": "AS",
-        "emoji": "🇦🇸",
-        "code": "+1684",
-        "nameEN": "American Samoa",
-        "nameGE": "ამერიკული სამოა"
+        "nameEN": "ANTARCTICA",
+        "nameGE": "ანტარქტიდა",
+        "emoji": "🇦🇶",
+        "code": "+672",
+        "shortName": "AQ"
     },
     {
         "id": 11,
-        "shortName": "AT",
-        "emoji": "🇦🇹",
-        "code": "+43",
-        "nameEN": "Austria",
-        "nameGE": "ავსტრია"
+        "nameEN": "ARGENTINA",
+        "nameGE": "არგენტინა",
+        "emoji": "🇦🇷",
+        "code": "+54",
+        "shortName": "AR"
     },
     {
         "id": 12,
-        "shortName": "AU",
-        "emoji": "🇦🇺",
-        "code": "+61",
-        "nameEN": "Australia",
-        "nameGE": "ავსტრალია"
+        "nameEN": "AMERICAN SAMOA",
+        "nameGE": "ამერიკის სამოა",
+        "emoji": "🇦🇸",
+        "code": "+1684",
+        "shortName": "AS"
     },
     {
         "id": 13,
-        "shortName": "AW",
-        "emoji": "🇦🇼",
-        "code": "+297",
-        "nameEN": "Aruba",
-        "nameGE": "არუბა"
+        "nameEN": "AUSTRIA",
+        "nameGE": "ავსტრია",
+        "emoji": "🇦🇹",
+        "code": "+43",
+        "shortName": "AT"
     },
     {
         "id": 14,
-        "shortName": "AZ",
-        "emoji": "🇦🇿",
-        "code": "+994",
-        "nameEN": "Azerbaijan",
-        "nameGE": "აზერბაიჯანი"
+        "nameEN": "AUSTRALIA",
+        "nameGE": "ავსტრალია",
+        "emoji": "🇦🇺",
+        "code": "+61",
+        "shortName": "AU"
     },
     {
         "id": 15,
-        "shortName": "BA",
-        "emoji": "🇧🇦",
-        "code": "+387",
-        "nameEN": "Bosnia & Herzegovina",
-        "nameGE": "ბოსნია და ჰერცოგოვინა"
+        "nameEN": "ARUBA",
+        "nameGE": "არუბა",
+        "emoji": "🇦🇼",
+        "code": "+297",
+        "shortName": "AW"
     },
     {
         "id": 16,
-        "shortName": "BB",
-        "emoji": "🇧🇧",
-        "code": "+1",
-        "nameEN": "Barbados",
-        "nameGE": "ბარბადოსი"
+        "nameEN": "ALAND ISLANDS",
+        "nameGE": "ალანდის კუნძულები",
+        "emoji": null,
+        "code": null,
+        "shortName": "AX"
     },
     {
         "id": 17,
-        "shortName": "BD",
-        "emoji": "🇧🇩",
-        "code": "+880",
-        "nameEN": "Bangladesh",
-        "nameGE": "ბანგლადეში"
+        "nameEN": "AZERBAIJAN",
+        "nameGE": "აზერბაიჯანი",
+        "emoji": "🇦🇿",
+        "code": "+994",
+        "shortName": "AZ"
     },
     {
         "id": 18,
-        "shortName": "BE",
-        "emoji": "🇧🇪",
-        "code": "+32",
-        "nameEN": "Belgium",
-        "nameGE": "ბელგია"
+        "nameEN": "BOSNIA AND HERZEGOVINA",
+        "nameGE": "ბოსნია-ჰერცოგოვინა",
+        "emoji": "🇧🇦",
+        "code": "+387",
+        "shortName": "BA"
     },
     {
         "id": 19,
-        "shortName": "BF",
-        "emoji": "🇧🇫",
-        "code": "+226",
-        "nameEN": "Burkina Faso",
-        "nameGE": "ბურკინა ფასო"
+        "nameEN": "BARBADOS",
+        "nameGE": "ბარბადოსი",
+        "emoji": "🇧🇧",
+        "code": "+1",
+        "shortName": "BB"
     },
     {
         "id": 20,
-        "shortName": "BG",
-        "emoji": "🇧🇬",
-        "code": "+359",
-        "nameEN": "Bulgaria",
-        "nameGE": "ბულგარეთი"
+        "nameEN": "BANGLADESH",
+        "nameGE": "ბანგლადეში",
+        "emoji": "🇧🇩",
+        "code": "+880",
+        "shortName": "BD"
     },
     {
         "id": 21,
-        "shortName": "BH",
-        "emoji": "🇧🇭",
-        "code": "+973",
-        "nameEN": "Bahrain",
-        "nameGE": "ბაჰრეინი"
+        "nameEN": "BELGIUM",
+        "nameGE": "ბელგია",
+        "emoji": "🇧🇪",
+        "code": "+32",
+        "shortName": "BE"
     },
     {
         "id": 22,
-        "shortName": "BI",
-        "emoji": "🇧🇮",
-        "code": "+257",
-        "nameEN": "Burundi",
-        "nameGE": "ბურუნდი"
+        "nameEN": "BURKINA FASO",
+        "nameGE": "ბურკინა ფასო",
+        "emoji": "🇧🇫",
+        "code": "+226",
+        "shortName": "BF"
     },
     {
         "id": 23,
-        "shortName": "BJ",
-        "emoji": "🇧🇯",
-        "code": "+229",
-        "nameEN": "Benin",
-        "nameGE": "ბენინი"
+        "nameEN": "BULGARIA",
+        "nameGE": "ბულგარეთი",
+        "emoji": "🇧🇬",
+        "code": "+359",
+        "shortName": "BG"
     },
     {
         "id": 24,
-        "shortName": "BL",
-        "emoji": "🇧🇱",
-        "code": "+590",
-        "nameEN": "St. Barthélemy",
-        "nameGE": "სენ-ბართელმი"
+        "nameEN": "BAHRAIN",
+        "nameGE": "ბაჰრეინი",
+        "emoji": "🇧🇭",
+        "code": "+973",
+        "shortName": "BH"
     },
     {
         "id": 25,
-        "shortName": "BM",
-        "emoji": "🇧🇲",
-        "code": "+1",
-        "nameEN": "Bermuda",
-        "nameGE": "ბერნუდა"
+        "nameEN": "BURUNDI",
+        "nameGE": "ბურუნდი",
+        "emoji": "🇧🇮",
+        "code": "+257",
+        "shortName": "BI"
     },
     {
         "id": 26,
-        "shortName": "BN",
-        "emoji": "🇧🇳",
-        "code": "+673",
-        "nameEN": "Brunei",
-        "nameGE": "ბრუნეი"
+        "nameEN": "BENIN",
+        "nameGE": "ბენინი",
+        "emoji": "🇧🇯",
+        "code": "+229",
+        "shortName": "BJ"
     },
     {
         "id": 27,
-        "shortName": "BO",
-        "emoji": "🇧🇴",
-        "code": "+591",
-        "nameEN": "Bolivia",
-        "nameGE": "ბოლივია"
+        "nameEN": "SAINT BARTHიLEMY",
+        "nameGE": "სენ-ბართელმი",
+        "emoji": "🇧🇱",
+        "code": "+590",
+        "shortName": "BL"
     },
     {
         "id": 28,
-        "shortName": "BR",
-        "emoji": "🇧🇷",
-        "code": "+55",
-        "nameEN": "Brazil",
-        "nameGE": "ბრაზილია"
+        "nameEN": "BERMUDA",
+        "nameGE": "ბერმუდა",
+        "emoji": "🇧🇲",
+        "code": "+1",
+        "shortName": "BM"
     },
     {
         "id": 29,
-        "shortName": "BS",
-        "emoji": "🇧🇸",
-        "code": "+1",
-        "nameEN": "Bahamas",
-        "nameGE": "ბაჰამები"
+        "nameEN": "BRUNEI DARUSSALAM",
+        "nameGE": "ბრუნეი დარუსალამი",
+        "emoji": "🇧🇳",
+        "code": "+673",
+        "shortName": "BN"
     },
     {
         "id": 30,
-        "shortName": "BT",
-        "emoji": "🇧🇹",
-        "code": "+975",
-        "nameEN": "Bhutan",
-        "nameGE": "ბუტანი"
+        "nameEN": "BOLIVIA",
+        "nameGE": "ბოლივია",
+        "emoji": "🇧🇴",
+        "code": "+591",
+        "shortName": "BO"
     },
     {
         "id": 31,
-        "shortName": "BW",
-        "emoji": "🇧🇼",
-        "code": "+267",
-        "nameEN": "Botswana",
-        "nameGE": "ბოსტვანა"
+        "nameEN": "BONAIRE, ST. EUSTATIUS, AND SABA",
+        "nameGE": "ბონაირე, სინტ ეუსტატია და საბა",
+        "emoji": null,
+        "code": null,
+        "shortName": "BQ"
     },
     {
         "id": 32,
-        "shortName": "BY",
-        "emoji": "🇧🇾",
-        "code": "+375",
-        "nameEN": "Belarus",
-        "nameGE": "ბელარუსი"
+        "nameEN": "BRAZIL",
+        "nameGE": "ბრაზილია",
+        "emoji": "🇧🇷",
+        "code": "+55",
+        "shortName": "BR"
     },
     {
         "id": 33,
-        "shortName": "BZ",
-        "emoji": "🇧🇿",
-        "code": "+501",
-        "nameEN": "Belize",
-        "nameGE": "ბელიზი"
+        "nameEN": "BAHAMAS",
+        "nameGE": "ბაჰამის კუნძულები",
+        "emoji": "🇧🇸",
+        "code": "+1",
+        "shortName": "BS"
     },
     {
         "id": 34,
-        "shortName": "CA",
-        "emoji": "🇨🇦",
-        "code": "+1",
-        "nameEN": "Canada",
-        "nameGE": "კანადა"
+        "nameEN": "BHUTAN",
+        "nameGE": "ბუტანი",
+        "emoji": "🇧🇹",
+        "code": "+975",
+        "shortName": "BT"
     },
     {
         "id": 35,
-        "shortName": "CD",
-        "emoji": "🇨🇩",
-        "code": "+243",
-        "nameEN": "Congo - Kinshasa",
-        "nameGE": "კონგოს დემოკრატიული რესპუბლიკა"
+        "nameEN": "BOUVET ISLAND",
+        "nameGE": "ბუვეტის კუნძული",
+        "emoji": null,
+        "code": null,
+        "shortName": "BV"
     },
     {
         "id": 36,
-        "shortName": "CF",
-        "emoji": "🇨🇫",
-        "code": "+236",
-        "nameEN": "Central African Republic",
-        "nameGE": "ცენტრალური აფრიკის რესპუბლიკა"
+        "nameEN": "BOTSWANA",
+        "nameGE": "ბოტსვანა",
+        "emoji": "🇧🇼",
+        "code": "+267",
+        "shortName": "BW"
     },
     {
         "id": 37,
-        "shortName": "CG",
-        "emoji": "🇨🇬",
-        "code": "+242",
-        "nameEN": "Congo - Brazzaville",
-        "nameGE": "კონგოს რესპუბლიკა"
+        "nameEN": "BELARUS",
+        "nameGE": "ბელარუსი",
+        "emoji": "🇧🇾",
+        "code": "+375",
+        "shortName": "BY"
     },
     {
         "id": 38,
-        "shortName": "CH",
-        "emoji": "🇨🇭",
-        "code": "+41",
-        "nameEN": "Switzerland",
-        "nameGE": "შვეიცარია"
+        "nameEN": "BELIZE",
+        "nameGE": "ბელიზი",
+        "emoji": "🇧🇿",
+        "code": "+501",
+        "shortName": "BZ"
     },
     {
         "id": 39,
-        "shortName": "CI",
-        "emoji": "🇨🇮",
-        "code": "+225",
-        "nameEN": "Côte d’Ivoire",
-        "nameGE": "კოტ-დ’ივუარი"
+        "nameEN": "CANADA",
+        "nameGE": "კანადა",
+        "emoji": "🇨🇦",
+        "code": "+1",
+        "shortName": "CA"
     },
     {
         "id": 40,
-        "shortName": "CK",
-        "emoji": "🇨🇰",
-        "code": "+682",
-        "nameEN": "Cook Islands",
-        "nameGE": "კუკის კუნძულები"
+        "nameEN": "COCOS (KEELING) ISLANDS",
+        "nameGE": "ქოქოსის (კილინგის) კუნძულები",
+        "emoji": null,
+        "code": null,
+        "shortName": "CC"
     },
     {
         "id": 41,
-        "shortName": "CL",
-        "emoji": "🇨🇱",
-        "code": "+56",
-        "nameEN": "Chile",
-        "nameGE": "ჩილე"
+        "nameEN": "CONGO, THE DEMOCRATIC REPUBLIC OF THE (formerly Zaire)",
+        "nameGE": "კონგოს დემოკრატიული რესპუბლიკა",
+        "emoji": "🇨🇩",
+        "code": "+243",
+        "shortName": "CD"
     },
     {
         "id": 42,
-        "shortName": "CM",
-        "emoji": "🇨🇲",
-        "code": "+237",
-        "nameEN": "Cameroon",
-        "nameGE": "კამერუნი"
+        "nameEN": "CENTRAL AFRICAN REPUBLIC",
+        "nameGE": "ცენტრალური აფრიკის რესპუბლიკა",
+        "emoji": "🇨🇫",
+        "code": "+236",
+        "shortName": "CF"
     },
     {
         "id": 43,
-        "shortName": "CN",
-        "emoji": "🇨🇳",
-        "code": "+86",
-        "nameEN": "China",
-        "nameGE": "ჩინეთი"
+        "nameEN": "CONGO, REPUBLIC OF",
+        "nameGE": "კონგო",
+        "emoji": "🇨🇬",
+        "code": "+242",
+        "shortName": "CG"
     },
     {
         "id": 44,
-        "shortName": "CO",
-        "emoji": "🇨🇴",
-        "code": "+57",
-        "nameEN": "Colombia",
-        "nameGE": "კოლუმბია"
+        "nameEN": "SWITZERLAND (Confederation of Helvetia)",
+        "nameGE": "შვეიცარია",
+        "emoji": "🇨🇭",
+        "code": "+41",
+        "shortName": "CH"
     },
     {
         "id": 45,
-        "shortName": "CR",
-        "emoji": "🇨🇷",
-        "code": "+506",
-        "nameEN": "Costa Rica",
-        "nameGE": "კოსტა-რიკა"
+        "nameEN": "CტTE D'IVOIRE (Ivory Coast)",
+        "nameGE": "კოტდივუარი",
+        "emoji": "🇨🇮",
+        "code": "+225",
+        "shortName": "CI"
     },
     {
         "id": 46,
-        "shortName": "CU",
-        "emoji": "🇨🇺",
-        "code": "+53",
-        "nameEN": "Cuba",
-        "nameGE": "კუბა"
+        "nameEN": "COOK ISLANDS",
+        "nameGE": "კუკის კუნძულები",
+        "emoji": "🇨🇰",
+        "code": "+682",
+        "shortName": "CK"
     },
     {
         "id": 47,
-        "shortName": "CV",
-        "emoji": "🇨🇻",
-        "code": "+238",
-        "nameEN": "Cape Verde",
-        "nameGE": "კაბო-ვერდე"
+        "nameEN": "CHILE",
+        "nameGE": "ჩილე",
+        "emoji": "🇨🇱",
+        "code": "+56",
+        "shortName": "CL"
     },
     {
         "id": 48,
-        "shortName": "CW",
-        "emoji": "🇨🇼",
-        "code": "+599",
-        "nameEN": "Curaçao",
-        "nameGE": "კიურასაო"
+        "nameEN": "CAMEROON",
+        "nameGE": "კამერუნი",
+        "emoji": "🇨🇲",
+        "code": "+237",
+        "shortName": "CM"
     },
     {
         "id": 49,
-        "shortName": "CY",
-        "emoji": "🇨🇾",
-        "code": "+357",
-        "nameEN": "Cyprus",
-        "nameGE": "კვიპროსი"
+        "nameEN": "CHINA",
+        "nameGE": "ჩინეთი",
+        "emoji": "🇨🇳",
+        "code": "+86",
+        "shortName": "CN"
     },
     {
         "id": 50,
-        "shortName": "CZ",
-        "emoji": "🇨🇿",
-        "code": "+420",
-        "nameEN": "Czechia",
-        "nameGE": "ჩეხეთი"
+        "nameEN": "COLOMBIA",
+        "nameGE": "კოლუმბია",
+        "emoji": "🇨🇴",
+        "code": "+57",
+        "shortName": "CO"
     },
     {
         "id": 51,
-        "shortName": "DE",
-        "emoji": "🇩🇪",
-        "code": "+49",
-        "nameEN": "Germany",
-        "nameGE": "გერმანია"
+        "nameEN": "COSTA RICA",
+        "nameGE": "კოსტა-რიკა",
+        "emoji": "🇨🇷",
+        "code": "+506",
+        "shortName": "CR"
     },
     {
         "id": 52,
-        "shortName": "DJ",
-        "emoji": "🇩🇯",
-        "code": "+253",
-        "nameEN": "Djibouti",
-        "nameGE": "ჯიბუტი"
+        "nameEN": "CUBA",
+        "nameGE": "კუბა",
+        "emoji": "🇨🇺",
+        "code": "+53",
+        "shortName": "CU"
     },
     {
         "id": 53,
-        "shortName": "DK",
-        "emoji": "🇩🇰",
-        "code": "+45",
-        "nameEN": "Denmark",
-        "nameGE": "დანია"
+        "nameEN": "CAPE VERDE",
+        "nameGE": "კაბო ვერდე",
+        "emoji": "🇨🇻",
+        "code": "+238",
+        "shortName": "CV"
     },
     {
         "id": 54,
-        "shortName": "DM",
-        "emoji": "🇩🇲",
-        "code": "+1",
-        "nameEN": "Dominica",
-        "nameGE": "დომინიკა"
+        "nameEN": "CURACAO",
+        "nameGE": "კურასაო",
+        "emoji": "🇨🇼",
+        "code": "+599",
+        "shortName": "CW"
     },
     {
         "id": 55,
-        "shortName": "DO",
-        "emoji": "🇩🇴",
-        "code": "+1",
-        "nameEN": "Dominican Republic",
-        "nameGE": "დომინიკელთა რესპუბლიკა"
+        "nameEN": "CHRISTMAS ISLAND",
+        "nameGE": "შობის კუნძული",
+        "emoji": null,
+        "code": null,
+        "shortName": "CX"
     },
     {
         "id": 56,
-        "shortName": "DZ",
-        "emoji": "🇩🇿",
-        "code": "+213",
-        "nameEN": "Algeria",
-        "nameGE": "ალჟირი"
+        "nameEN": "CYPRUS",
+        "nameGE": "კვიპროსი",
+        "emoji": "🇨🇾",
+        "code": "+357",
+        "shortName": "CY"
     },
     {
         "id": 57,
-        "shortName": "EC",
-        "emoji": "🇪🇨",
-        "code": "+593",
-        "nameEN": "Ecuador",
-        "nameGE": "ეკვადორი"
+        "nameEN": "CZECH REPUBLIC",
+        "nameGE": "ჩეხეთის რესპუბლიკა",
+        "emoji": "🇨🇿",
+        "code": "+420",
+        "shortName": "CZ"
     },
     {
         "id": 58,
-        "shortName": "EE",
-        "emoji": "🇪🇪",
-        "code": "+372",
-        "nameEN": "Estonia",
-        "nameGE": "ესტონეთი"
+        "nameEN": "GERMANY (Deutschland)",
+        "nameGE": "გერმანია",
+        "emoji": "🇩🇪",
+        "code": "+49",
+        "shortName": "DE"
     },
     {
         "id": 59,
-        "shortName": "EG",
-        "emoji": "🇪🇬",
-        "code": "+20",
-        "nameEN": "Egypt",
-        "nameGE": "ეგვიპტე"
+        "nameEN": "DJIBOUTI",
+        "nameGE": "ჯიბუტი",
+        "emoji": "🇩🇯",
+        "code": "+253",
+        "shortName": "DJ"
     },
     {
         "id": 60,
-        "shortName": "EH",
-        "emoji": "🇪🇭",
-        "code": "+212",
-        "nameEN": "Western Sahara",
-        "nameGE": "დასავლეთ საჰარა"
+        "nameEN": "DENMARK",
+        "nameGE": "დანია",
+        "emoji": "🇩🇰",
+        "code": "+45",
+        "shortName": "DK"
     },
     {
         "id": 61,
-        "shortName": "ER",
-        "emoji": "🇪🇷",
-        "code": "+291",
-        "nameEN": "Eritrea",
-        "nameGE": "ერიტრეა"
+        "nameEN": "DOMINICA",
+        "nameGE": "დომინიკა",
+        "emoji": "🇩🇲",
+        "code": "+1",
+        "shortName": "DM"
     },
     {
         "id": 62,
-        "shortName": "ES",
-        "emoji": "🇪🇸",
-        "code": "+34",
-        "nameEN": "Spain",
-        "nameGE": "ესპანეთი"
+        "nameEN": "DOMINICAN REPUBLIC",
+        "nameGE": "დომინიკელთა რესპუბლიკა",
+        "emoji": "🇩🇴",
+        "code": "+1",
+        "shortName": "DO"
     },
     {
         "id": 63,
-        "shortName": "ET",
-        "emoji": "🇪🇹",
-        "code": "+251",
-        "nameEN": "Ethiopia",
-        "nameGE": "ეთიოპია"
+        "nameEN": "ALGERIA (El Djazaïr)",
+        "nameGE": "ალჟირი",
+        "emoji": "🇩🇿",
+        "code": "+213",
+        "shortName": "DZ"
     },
     {
         "id": 64,
-        "shortName": "FI",
-        "emoji": "🇫🇮",
-        "code": "+358",
-        "nameEN": "Finland",
-        "nameGE": "ფინეთი"
+        "nameEN": "ECUADOR",
+        "nameGE": "ეკვადორი",
+        "emoji": "🇪🇨",
+        "code": "+593",
+        "shortName": "EC"
     },
     {
         "id": 65,
-        "shortName": "FJ",
-        "emoji": "🇫🇯",
-        "code": "+679",
-        "nameEN": "Fiji",
-        "nameGE": "ფიჯი"
+        "nameEN": "ESTONIA",
+        "nameGE": "ესტონეთი",
+        "emoji": "🇪🇪",
+        "code": "+372",
+        "shortName": "EE"
     },
     {
         "id": 66,
-        "shortName": "FK",
-        "emoji": "🇫🇰",
-        "code": "+500",
-        "nameEN": "Falkland Islands",
-        "nameGE": "ფოლკლენდის კუნძულები"
+        "nameEN": "EGYPT",
+        "nameGE": "ეგვიპტე",
+        "emoji": "🇪🇬",
+        "code": "+20",
+        "shortName": "EG"
     },
     {
         "id": 67,
-        "shortName": "FM",
-        "emoji": "🇫🇲",
-        "code": "+691",
-        "nameEN": "Micronesia",
-        "nameGE": "მიკრონეზია"
+        "nameEN": "WESTERN SAHARA (formerly Spanish Sahara)",
+        "nameGE": "დასავლეთი საჰარა",
+        "emoji": "🇪🇭",
+        "code": "+212",
+        "shortName": "EH"
     },
     {
         "id": 68,
-        "shortName": "FO",
-        "emoji": "🇫🇴",
-        "code": "+298",
-        "nameEN": "Faroe Islands",
-        "nameGE": "ფარერის კუნძულები"
+        "nameEN": "ERITREA",
+        "nameGE": "ერიტრეა",
+        "emoji": "🇪🇷",
+        "code": "+291",
+        "shortName": "ER"
     },
     {
         "id": 69,
-        "shortName": "FR",
-        "emoji": "🇫🇷",
-        "code": "+33",
-        "nameEN": "France",
-        "nameGE": "საფრანგეთი"
+        "nameEN": "SPAIN (España)",
+        "nameGE": "ესპანეთი",
+        "emoji": "🇪🇸",
+        "code": "+34",
+        "shortName": "ES"
     },
     {
         "id": 70,
-        "shortName": "GA",
-        "emoji": "🇬🇦",
-        "code": "+241",
-        "nameEN": "Gabon",
-        "nameGE": "გაბონი"
+        "nameEN": "ETHIOPIA",
+        "nameGE": "ეთიოპია",
+        "emoji": "🇪🇹",
+        "code": "+251",
+        "shortName": "ET"
     },
     {
         "id": 71,
-        "shortName": "GB",
-        "emoji": "🇬🇧",
-        "code": "+44",
-        "nameEN": "United Kingdom",
-        "nameGE": "გაერთიანებული სამეფო"
+        "nameEN": "FINLAND",
+        "nameGE": "ფინეთი",
+        "emoji": "🇫🇮",
+        "code": "+358",
+        "shortName": "FI"
     },
     {
         "id": 72,
-        "shortName": "GE",
-        "emoji": "🇬🇪",
-        "code": "+995",
-        "nameEN": "Georgia",
-        "nameGE": "საქართველო"
+        "nameEN": "FIJI",
+        "nameGE": "ფიჯი",
+        "emoji": "🇫🇯",
+        "code": "+679",
+        "shortName": "FJ"
     },
     {
         "id": 73,
-        "shortName": "GH",
-        "emoji": "🇬🇭",
-        "code": "+233",
-        "nameEN": "Ghana",
-        "nameGE": "განა"
+        "nameEN": "FALKLAND ISLANDS (MALVINAS)",
+        "nameGE": "ფოლკლენდის (მალვინის) კუნძულები",
+        "emoji": "🇫🇰",
+        "code": "+500",
+        "shortName": "FK"
     },
     {
         "id": 74,
-        "shortName": "GI",
-        "emoji": "🇬🇮",
-        "code": "+350",
-        "nameEN": "Gibraltar",
-        "nameGE": "გიბრალტარი"
+        "nameEN": "MICRONESIA (Federated States of Micronesia)",
+        "nameGE": "მიკრონეზია (ფედერალური შტატები)",
+        "emoji": "🇫🇲",
+        "code": "+691",
+        "shortName": "FM"
     },
     {
         "id": 75,
-        "shortName": "GL",
-        "emoji": "🇬🇱",
-        "code": "+299",
-        "nameEN": "Greenland",
-        "nameGE": "გრენლანდია"
+        "nameEN": "FAEROE ISLANDS",
+        "nameGE": "ფარერის კუნძულები",
+        "emoji": "🇫🇴",
+        "code": "+298",
+        "shortName": "FO"
     },
     {
         "id": 76,
-        "shortName": "GM",
-        "emoji": "🇬🇲",
-        "code": "+220",
-        "nameEN": "Gambia",
-        "nameGE": "გამბია"
+        "nameEN": "FRANCE",
+        "nameGE": "საფრანგეთი",
+        "emoji": "🇫🇷",
+        "code": "+33",
+        "shortName": "FR"
     },
     {
         "id": 77,
-        "shortName": "GN",
-        "emoji": "🇬🇳",
-        "code": "+224",
-        "nameEN": "Guinea",
-        "nameGE": "გვინეა"
+        "nameEN": "GABON",
+        "nameGE": "გაბონი",
+        "emoji": "🇬🇦",
+        "code": "+241",
+        "shortName": "GA"
     },
     {
         "id": 78,
-        "shortName": "GP",
-        "emoji": "🇬🇵",
-        "code": "+590",
-        "nameEN": "Guadeloupe",
-        "nameGE": "Guadeloupe"
+        "nameEN": "GREAT BRITAIN (United Kingdom)",
+        "nameGE": "გაერთიანებული სამეფო",
+        "emoji": "🇬🇧",
+        "code": "+44",
+        "shortName": "GB"
     },
     {
         "id": 79,
-        "shortName": "GQ",
-        "emoji": "🇬🇶",
-        "code": "+240",
-        "nameEN": "Equatorial Guinea",
-        "nameGE": "ეკვატორული გვინეა"
+        "nameEN": "GRENADA",
+        "nameGE": "გრენადა",
+        "emoji": null,
+        "code": null,
+        "shortName": "GD"
     },
     {
         "id": 80,
-        "shortName": "GR",
-        "emoji": "🇬🇷",
-        "code": "+30",
-        "nameEN": "Greece",
-        "nameGE": "საბერძნეთი"
+        "nameEN": "GEORGIA",
+        "nameGE": "საქართველო",
+        "emoji": "🇬🇪",
+        "code": "+995",
+        "shortName": "GE"
     },
     {
         "id": 81,
-        "shortName": "GT",
-        "emoji": "🇬🇹",
-        "code": "+502",
-        "nameEN": "Guatemala",
-        "nameGE": "გვატემალა"
+        "nameEN": "FRENCH GUIANA",
+        "nameGE": "საფრანგეთის გვიანა",
+        "emoji": null,
+        "code": null,
+        "shortName": "GF"
     },
     {
         "id": 82,
-        "shortName": "GU",
-        "emoji": "🇬🇺",
-        "code": "+1671",
-        "nameEN": "Guam",
-        "nameGE": "გუამი"
+        "nameEN": "GUERNSEY",
+        "nameGE": "გერნსი",
+        "emoji": null,
+        "code": null,
+        "shortName": "GG"
     },
     {
         "id": 83,
-        "shortName": "GW",
-        "emoji": "🇬🇼",
-        "code": "+245",
-        "nameEN": "Guinea-Bissau",
-        "nameGE": "გვინეა-ბისაუ"
+        "nameEN": "GHANA",
+        "nameGE": "განა",
+        "emoji": "🇬🇭",
+        "code": "+233",
+        "shortName": "GH"
     },
     {
         "id": 84,
-        "shortName": "GY",
-        "emoji": "🇬🇾",
-        "code": "+592",
-        "nameEN": "Guyana",
-        "nameGE": "გაიანა"
+        "nameEN": "GIBRALTAR",
+        "nameGE": "გიბრალტარი",
+        "emoji": "🇬🇮",
+        "code": "+350",
+        "shortName": "GI"
     },
     {
         "id": 85,
-        "shortName": "HK",
-        "emoji": "🇭🇰",
-        "code": "+852",
-        "nameEN": "Hong Kong SAR China",
-        "nameGE": "ჰონგ-კონგი ს.ა.რ ჩინეთი"
+        "nameEN": "GREENLAND",
+        "nameGE": "გრენლანდია",
+        "emoji": "🇬🇱",
+        "code": "+299",
+        "shortName": "GL"
     },
     {
         "id": 86,
-        "shortName": "HN",
-        "emoji": "🇭🇳",
-        "code": "+504",
-        "nameEN": "Honduras",
-        "nameGE": "ჰონდურასი"
+        "nameEN": "GAMBIA, THE",
+        "nameGE": "გამბია",
+        "emoji": "🇬🇲",
+        "code": "+220",
+        "shortName": "GM"
     },
     {
         "id": 87,
-        "shortName": "HR",
-        "emoji": "🇭🇷",
-        "code": "+385",
-        "nameEN": "Croatia",
-        "nameGE": "ხორვატია"
+        "nameEN": "GUINEA",
+        "nameGE": "გვინეა",
+        "emoji": "🇬🇳",
+        "code": "+224",
+        "shortName": "GN"
     },
     {
         "id": 88,
-        "shortName": "HT",
-        "emoji": "🇭🇹",
-        "code": "+509",
-        "nameEN": "Haiti",
-        "nameGE": "ჰაიტი"
+        "nameEN": "GUADELOUPE",
+        "nameGE": "გვადელუპა",
+        "emoji": "🇬🇵",
+        "code": "+590",
+        "shortName": "GP"
     },
     {
         "id": 89,
-        "shortName": "HU",
-        "emoji": "🇭🇺",
-        "code": "+36",
-        "nameEN": "Hungary",
-        "nameGE": "უნგრეთი"
+        "nameEN": "EQUATORIAL GUINEA",
+        "nameGE": "ეკვატორული გვინეა",
+        "emoji": "🇬🇶",
+        "code": "+240",
+        "shortName": "GQ"
     },
     {
         "id": 90,
-        "shortName": "ID",
-        "emoji": "🇮🇩",
-        "code": "+62",
-        "nameEN": "Indonesia",
-        "nameGE": "ინდონეზია"
+        "nameEN": "GREECE",
+        "nameGE": "საბერძნეთი",
+        "emoji": "🇬🇷",
+        "code": "+30",
+        "shortName": "GR"
     },
     {
         "id": 91,
-        "shortName": "IE",
-        "emoji": "🇮🇪",
-        "code": "+353",
-        "nameEN": "Ireland",
-        "nameGE": "ირლანდია"
+        "nameEN": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+        "nameGE": "სამხრეთ ჯორჯია და სამხრეთ სენდვიჩის კუნძულები",
+        "emoji": null,
+        "code": null,
+        "shortName": "GS"
     },
     {
         "id": 92,
-        "shortName": "IL",
-        "emoji": "🇮🇱",
-        "code": "+972",
-        "nameEN": "Israel",
-        "nameGE": "ისრაელი"
+        "nameEN": "GUATEMALA",
+        "nameGE": "გვატემალა",
+        "emoji": "🇬🇹",
+        "code": "+502",
+        "shortName": "GT"
     },
     {
         "id": 93,
-        "shortName": "IM",
-        "emoji": "🇮🇲",
-        "code": "+44",
-        "nameEN": "Isle of Man",
-        "nameGE": "მენის კუნძული"
+        "nameEN": "GUAM",
+        "nameGE": "გუამი",
+        "emoji": "🇬🇺",
+        "code": "+1671",
+        "shortName": "GU"
     },
     {
         "id": 94,
-        "shortName": "IN",
-        "emoji": "🇮🇳",
-        "code": "+91",
-        "nameEN": "India",
-        "nameGE": "ინდოეთი"
+        "nameEN": "GUINEA-BISSAU",
+        "nameGE": "გვინეა-ბისაუ",
+        "emoji": "🇬🇼",
+        "code": "+245",
+        "shortName": "GW"
     },
     {
         "id": 95,
-        "shortName": "IQ",
-        "emoji": "🇮🇶",
-        "code": "+964",
-        "nameEN": "Iraq",
-        "nameGE": "ერაყი"
+        "nameEN": "GUYANA",
+        "nameGE": "გაიანა",
+        "emoji": "🇬🇾",
+        "code": "+592",
+        "shortName": "GY"
     },
     {
         "id": 96,
-        "shortName": "IR",
-        "emoji": "🇮🇷",
-        "code": "+98",
-        "nameEN": "Iran",
-        "nameGE": "ირანი"
+        "nameEN": "HONG KONG (Special Administrative Region of China)",
+        "nameGE": "ჰონკონგი",
+        "emoji": "🇭🇰",
+        "code": "+852",
+        "shortName": "HK"
     },
     {
         "id": 97,
-        "shortName": "IS",
-        "emoji": "🇮🇸",
-        "code": "+354",
-        "nameEN": "Iceland",
-        "nameGE": "ისლანდია"
+        "nameEN": "HEARD ISLAND AND MCDONALD ISLANDS",
+        "nameGE": "ჰერდისა და მაკდონალდის კუნძულები",
+        "emoji": null,
+        "code": null,
+        "shortName": "HM"
     },
     {
         "id": 98,
-        "shortName": "IT",
-        "emoji": "🇮🇹",
-        "code": "+39",
-        "nameEN": "Italy",
-        "nameGE": "იტალია"
+        "nameEN": "HONDURAS",
+        "nameGE": "ჰონდურასი",
+        "emoji": "🇭🇳",
+        "code": "+504",
+        "shortName": "HN"
     },
     {
         "id": 99,
-        "shortName": "JM",
-        "emoji": "🇯🇲",
-        "code": "+1",
-        "nameEN": "Jamaica",
-        "nameGE": "იამაიკა"
+        "nameEN": "CROATIA (Hrvatska)",
+        "nameGE": "ხორვატია",
+        "emoji": "🇭🇷",
+        "code": "+385",
+        "shortName": "HR"
     },
     {
         "id": 100,
-        "shortName": "JO",
-        "emoji": "🇯🇴",
-        "code": "+962",
-        "nameEN": "Jordan",
-        "nameGE": "იორდანია"
+        "nameEN": "HAITI",
+        "nameGE": "ჰაიტი",
+        "emoji": "🇭🇹",
+        "code": "+509",
+        "shortName": "HT"
     },
     {
         "id": 101,
-        "shortName": "JP",
-        "emoji": "🇯🇵",
-        "code": "+81",
-        "nameEN": "Japan",
-        "nameGE": "იაპონია"
+        "nameEN": "HUNGARY",
+        "nameGE": "უნგრეთი",
+        "emoji": "🇭🇺",
+        "code": "+36",
+        "shortName": "HU"
     },
     {
         "id": 102,
-        "shortName": "KE",
-        "emoji": "🇰🇪",
-        "code": "+254",
-        "nameEN": "Kenya",
-        "nameGE": "კენია"
+        "nameEN": "INDONESIA",
+        "nameGE": "ინდონეზია",
+        "emoji": "🇮🇩",
+        "code": "+62",
+        "shortName": "ID"
     },
     {
         "id": 103,
-        "shortName": "KG",
-        "emoji": "🇰🇬",
-        "code": "+996",
-        "nameEN": "Kyrgyzstan",
-        "nameGE": "ყირგიზეთი"
+        "nameEN": "IRELAND",
+        "nameGE": "ირლანდია",
+        "emoji": "🇮🇪",
+        "code": "+353",
+        "shortName": "IE"
     },
     {
         "id": 104,
-        "shortName": "KH",
-        "emoji": "🇰🇭",
-        "code": "+855",
-        "nameEN": "Cambodia",
-        "nameGE": "კამბოჯა"
+        "nameEN": "ISRAEL",
+        "nameGE": "ისრაელი",
+        "emoji": "🇮🇱",
+        "code": "+972",
+        "shortName": "IL"
     },
     {
         "id": 105,
-        "shortName": "KI",
-        "emoji": "🇰🇮",
-        "code": "+686",
-        "nameEN": "Kiribati",
-        "nameGE": "კირიბატი"
+        "nameEN": "ISLE OF MAN",
+        "nameGE": "მენის კუნძულები",
+        "emoji": "🇮🇲",
+        "code": "+44",
+        "shortName": "IM"
     },
     {
         "id": 106,
-        "shortName": "KM",
-        "emoji": "🇰🇲",
-        "code": "+269",
-        "nameEN": "Comoros",
-        "nameGE": "კომორის კუნძულები"
+        "nameEN": "INDIA",
+        "nameGE": "ინდოეთი",
+        "emoji": "🇮🇳",
+        "code": "+91",
+        "shortName": "IN"
     },
     {
         "id": 107,
-        "shortName": "KN",
-        "emoji": "🇰🇳",
-        "code": "+1",
-        "nameEN": "St. Kitts & Nevis",
-        "nameGE": "სენტ-კიტსი და ნევისი"
+        "nameEN": "BRITISH INDIAN OCEAN TERRITORY",
+        "nameGE": "ბრიტანეთის ტერიტორია ინდოეთის ოკეანეში",
+        "emoji": null,
+        "code": null,
+        "shortName": "IO"
     },
     {
         "id": 108,
-        "shortName": "KP",
-        "emoji": "🇰🇵",
-        "code": "+850",
-        "nameEN": "North Korea",
-        "nameGE": "ჩრდილოეთ კორეა"
+        "nameEN": "IRAQ",
+        "nameGE": "ერაყი",
+        "emoji": "🇮🇶",
+        "code": "+964",
+        "shortName": "IQ"
     },
     {
         "id": 109,
-        "shortName": "KR",
-        "emoji": "🇰🇷",
-        "code": "+82",
-        "nameEN": "South Korea",
-        "nameGE": "სამხრეთ კორეა"
+        "nameEN": "IRAN (Islamic Republic of Iran)",
+        "nameGE": "ირანი (ისლამური რესპუბლიკა)",
+        "emoji": "🇮🇷",
+        "code": "+98",
+        "shortName": "IR"
     },
     {
         "id": 110,
-        "shortName": "KW",
-        "emoji": "🇰🇼",
-        "code": "+965",
-        "nameEN": "Kuwait",
-        "nameGE": "ქუვეითი"
+        "nameEN": "ICELAND",
+        "nameGE": "ისლანდია",
+        "emoji": "🇮🇸",
+        "code": "+354",
+        "shortName": "IS"
     },
     {
         "id": 111,
-        "shortName": "KY",
-        "emoji": "🇰🇾",
-        "code": "+1-345",
-        "nameEN": "Cayman Islands",
-        "nameGE": "კაიმანის კუნძულები"
+        "nameEN": "ITALY",
+        "nameGE": "იტალია",
+        "emoji": "🇮🇹",
+        "code": "+39",
+        "shortName": "IT"
     },
     {
         "id": 112,
-        "shortName": "KZ",
-        "emoji": "🇰🇿",
-        "code": "+7",
-        "nameEN": "Kazakhstan",
-        "nameGE": "ყაზახეთი"
+        "nameEN": "JERSEY",
+        "nameGE": "ჯერსი",
+        "emoji": null,
+        "code": null,
+        "shortName": "JE"
     },
     {
         "id": 113,
-        "shortName": "LA",
-        "emoji": "🇱🇦",
-        "code": "+856",
-        "nameEN": "Laos",
-        "nameGE": "ლაოსი"
+        "nameEN": "JAMAICA",
+        "nameGE": "იამაიკა",
+        "emoji": "🇯🇲",
+        "code": "+1",
+        "shortName": "JM"
     },
     {
         "id": 114,
-        "shortName": "LB",
-        "emoji": "🇱🇧",
-        "code": "+961",
-        "nameEN": "Lebanon",
-        "nameGE": "ლიბანი"
+        "nameEN": "JORDAN (Hashemite Kingdom of Jordan)",
+        "nameGE": "იორდანია",
+        "emoji": "🇯🇴",
+        "code": "+962",
+        "shortName": "JO"
     },
     {
         "id": 115,
-        "shortName": "LC",
-        "emoji": "🇱🇨",
-        "code": "+1",
-        "nameEN": "St. Lucia",
-        "nameGE": "სენტ-ლუსია"
+        "nameEN": "JAPAN",
+        "nameGE": "იაპონია",
+        "emoji": "🇯🇵",
+        "code": "+81",
+        "shortName": "JP"
     },
     {
         "id": 116,
-        "shortName": "LI",
-        "emoji": "🇱🇮",
-        "code": "+423",
-        "nameEN": "Liechtenstein",
-        "nameGE": "ლიხტენშტაინი"
+        "nameEN": "KENYA",
+        "nameGE": "კენია",
+        "emoji": "🇰🇪",
+        "code": "+254",
+        "shortName": "KE"
     },
     {
         "id": 117,
-        "shortName": "LK",
-        "emoji": "🇱🇰",
-        "code": "+94",
-        "nameEN": "Sri Lanka",
-        "nameGE": "შრი-ლანკა"
+        "nameEN": "KYRGYZSTAN",
+        "nameGE": "ყირგიზეთი",
+        "emoji": "🇰🇬",
+        "code": "+996",
+        "shortName": "KG"
     },
     {
         "id": 118,
-        "shortName": "LR",
-        "emoji": "🇱🇷",
-        "code": "+231",
-        "nameEN": "Liberia",
-        "nameGE": "ლიბერია"
+        "nameEN": "CAMBODIA",
+        "nameGE": "კამბოჯა",
+        "emoji": "🇰🇭",
+        "code": "+855",
+        "shortName": "KH"
     },
     {
         "id": 119,
-        "shortName": "LS",
-        "emoji": "🇱🇸",
-        "code": "+266",
-        "nameEN": "Lesotho",
-        "nameGE": "ლესოთო"
+        "nameEN": "KIRIBATI",
+        "nameGE": "კირიბატი",
+        "emoji": "🇰🇮",
+        "code": "+686",
+        "shortName": "KI"
     },
     {
         "id": 120,
-        "shortName": "LT",
-        "emoji": "🇱🇹",
-        "code": "+370",
-        "nameEN": "Lithuania",
-        "nameGE": "ლიეტუვა"
+        "nameEN": "COMOROS",
+        "nameGE": "კომორები",
+        "emoji": "🇰🇲",
+        "code": "+269",
+        "shortName": "KM"
     },
     {
         "id": 121,
-        "shortName": "LU",
-        "emoji": "🇱🇺",
-        "code": "+352",
-        "nameEN": "Luxembourg",
-        "nameGE": "ლუქსემბურგი "
+        "nameEN": "SAINT KITTS AND NEVIS",
+        "nameGE": "სენტ-კიტსი და ნევისი",
+        "emoji": "🇰🇳",
+        "code": "+1",
+        "shortName": "KN"
     },
     {
         "id": 122,
-        "shortName": "LV",
-        "emoji": "🇱🇻",
-        "code": "+371",
-        "nameEN": "Latvia",
-        "nameGE": "ლატვია"
+        "nameEN": "KOREA (Democratic Peoples Republic of [North] Korea)",
+        "nameGE": "კორეის სახალხო დემოკრატიული რესპუბლიკა",
+        "emoji": "🇰🇵",
+        "code": "+850",
+        "shortName": "KP"
     },
     {
         "id": 123,
-        "shortName": "LY",
-        "emoji": "🇱🇾",
-        "code": "+218",
-        "nameEN": "Libya",
-        "nameGE": "ლიბია"
+        "nameEN": "KOREA (Republic of [South] Korea)",
+        "nameGE": "კორეის რესპუბლიკა",
+        "emoji": "🇰🇷",
+        "code": "+82",
+        "shortName": "KR"
     },
     {
         "id": 124,
-        "shortName": "MA",
-        "emoji": "🇲🇦",
-        "code": "+212",
-        "nameEN": "Morocco",
-        "nameGE": "მაროკო"
+        "nameEN": "KUWAIT",
+        "nameGE": "ქუვეითი",
+        "emoji": "🇰🇼",
+        "code": "+965",
+        "shortName": "KW"
     },
     {
         "id": 125,
-        "shortName": "MC",
-        "emoji": "🇲🇨",
-        "code": "+377",
-        "nameEN": "Monaco",
-        "nameGE": "მონაკო"
+        "nameEN": "CAYMAN ISLANDS",
+        "nameGE": "კაიმანის კუნძულები",
+        "emoji": "🇰🇾",
+        "code": "+1-345",
+        "shortName": "KY"
     },
     {
         "id": 126,
-        "shortName": "MD",
-        "emoji": "🇲🇩",
-        "code": "+373",
-        "nameEN": "Moldova",
-        "nameGE": "მოლდოვა"
+        "nameEN": "KAZAKHSTAN",
+        "nameGE": "ყაზახეთი",
+        "emoji": "🇰🇿",
+        "code": "+7",
+        "shortName": "KZ"
     },
     {
         "id": 127,
-        "shortName": "ME",
-        "emoji": "🇲🇪",
-        "code": "+382",
-        "nameEN": "Montenegro",
-        "nameGE": "მონტენეგრო"
+        "nameEN": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+        "nameGE": "ლაოსის სახალხო დემოკრატიული რესპუბლიკა",
+        "emoji": "🇱🇦",
+        "code": "+856",
+        "shortName": "LA"
     },
     {
         "id": 128,
-        "shortName": "MF",
-        "emoji": "🇲🇫",
-        "code": "+1599",
-        "nameEN": "St. Martin",
-        "nameGE": "სენტ-მარტინი"
+        "nameEN": "LEBANON",
+        "nameGE": "ლიბანი",
+        "emoji": "🇱🇧",
+        "code": "+961",
+        "shortName": "LB"
     },
     {
         "id": 129,
-        "shortName": "MG",
-        "emoji": "🇲🇬",
-        "code": "+261",
-        "nameEN": "Madagascar",
-        "nameGE": "მადაგასკარი"
+        "nameEN": "SAINT LUCIA",
+        "nameGE": "სენტ-ლუსია",
+        "emoji": "🇱🇨",
+        "code": "+1",
+        "shortName": "LC"
     },
     {
         "id": 130,
-        "shortName": "MH",
-        "emoji": "🇲🇭",
-        "code": "+692",
-        "nameEN": "Marshall Islands",
-        "nameGE": "მარშალის კუნძულები"
+        "nameEN": "LIECHTENSTEIN (Fürstentum Liechtenstein)",
+        "nameGE": "ლიხტენშტეინი",
+        "emoji": "🇱🇮",
+        "code": "+423",
+        "shortName": "LI"
     },
     {
         "id": 131,
-        "shortName": "MK",
-        "emoji": "🇲🇰",
-        "code": "+389",
-        "nameEN": "Macedonia",
-        "nameGE": "მაკედონია"
+        "nameEN": "SRI LANKA (formerly Ceylon)",
+        "nameGE": "შრი-ლანკა",
+        "emoji": "🇱🇰",
+        "code": "+94",
+        "shortName": "LK"
     },
     {
         "id": 132,
-        "shortName": "ML",
-        "emoji": "🇲🇱",
-        "code": "+223",
-        "nameEN": "Mali",
-        "nameGE": "მალი"
+        "nameEN": "LIBERIA",
+        "nameGE": "ლიბერია",
+        "emoji": "🇱🇷",
+        "code": "+231",
+        "shortName": "LR"
     },
     {
         "id": 133,
-        "shortName": "MM",
-        "emoji": "🇲🇲",
-        "code": "+95",
-        "nameEN": "Myanmar (Burma)",
-        "nameGE": "მიანმარი (ბირმა)"
+        "nameEN": "LESOTHO",
+        "nameGE": "ლესოტო",
+        "emoji": "🇱🇸",
+        "code": "+266",
+        "shortName": "LS"
     },
     {
         "id": 134,
-        "shortName": "MN",
-        "emoji": "🇲🇳",
-        "code": "+976",
-        "nameEN": "Mongolia",
-        "nameGE": "მონღოლეთი"
+        "nameEN": "LITHUANIA",
+        "nameGE": "ლიტვა",
+        "emoji": "🇱🇹",
+        "code": "+370",
+        "shortName": "LT"
     },
     {
         "id": 135,
-        "shortName": "MO",
-        "emoji": "🇲🇴",
-        "code": "+853",
-        "nameEN": "Macau SAR China",
-        "nameGE": "მაკაოს ს.ა.რ. ჩინეთი"
+        "nameEN": "LUXEMBOURG",
+        "nameGE": "ლუქსემბურგი",
+        "emoji": "🇱🇺",
+        "code": "+352",
+        "shortName": "LU"
     },
     {
         "id": 136,
-        "shortName": "MP",
-        "emoji": "🇲🇵",
-        "code": "+1670",
-        "nameEN": "Northern Mariana Islands",
-        "nameGE": "ჩრდილოეთ მარიანას კუნძულების"
+        "nameEN": "LATVIA",
+        "nameGE": "ლატვია",
+        "emoji": "🇱🇻",
+        "code": "+371",
+        "shortName": "LV"
     },
     {
         "id": 137,
-        "shortName": "MR",
-        "emoji": "🇲🇷",
-        "code": "+222",
-        "nameEN": "Mauritania",
-        "nameGE": "მავრიტანია"
+        "nameEN": "LIBYA (Libyan Arab Jamahirya)",
+        "nameGE": "ლიბია",
+        "emoji": "🇱🇾",
+        "code": "+218",
+        "shortName": "LY"
     },
     {
         "id": 138,
-        "shortName": "MS",
-        "emoji": "🇲🇸",
-        "code": "+1664",
-        "nameEN": "Montserrat",
-        "nameGE": "მონსერატი"
+        "nameEN": "MOROCCO",
+        "nameGE": "მაროკო",
+        "emoji": "🇲🇦",
+        "code": "+212",
+        "shortName": "MA"
     },
     {
         "id": 139,
-        "shortName": "MT",
-        "emoji": "🇲🇹",
-        "code": "+356",
-        "nameEN": "Malta",
-        "nameGE": "მალტა"
+        "nameEN": "MONACO",
+        "nameGE": "მონაკო",
+        "emoji": "🇲🇨",
+        "code": "+377",
+        "shortName": "MC"
     },
     {
         "id": 140,
-        "shortName": "MU",
-        "emoji": "🇲🇺",
-        "code": "+230",
-        "nameEN": "Mauritius",
-        "nameGE": "მავრიკი"
+        "nameEN": "MOLDOVA",
+        "nameGE": "მოლდოვა",
+        "emoji": "🇲🇩",
+        "code": "+373",
+        "shortName": "MD"
     },
     {
         "id": 141,
-        "shortName": "MV",
-        "emoji": "🇲🇻",
-        "code": "+960",
-        "nameEN": "Maldives",
-        "nameGE": "მალდივები"
+        "nameEN": "MONTENEGRO",
+        "nameGE": "მონტენეგრო",
+        "emoji": "🇲🇪",
+        "code": "+382",
+        "shortName": "ME"
     },
     {
         "id": 142,
-        "shortName": "MW",
-        "emoji": "🇲🇼",
-        "code": "+265",
-        "nameEN": "Malawi",
-        "nameGE": "მალავი"
+        "nameEN": "SAINT MARTIN (French portion)",
+        "nameGE": "სენ-მარტენი (საფრანგეთის ნაწილი)",
+        "emoji": "🇲🇫",
+        "code": "+1599",
+        "shortName": "MF"
     },
     {
         "id": 143,
-        "shortName": "MX",
-        "emoji": "🇲🇽",
-        "code": "+52",
-        "nameEN": "Mexico",
-        "nameGE": "მექსიკა"
+        "nameEN": "MADAGASCAR",
+        "nameGE": "მადაგასკარი",
+        "emoji": "🇲🇬",
+        "code": "+261",
+        "shortName": "MG"
     },
     {
         "id": 144,
-        "shortName": "MY",
-        "emoji": "🇲🇾",
-        "code": "+60",
-        "nameEN": "Malaysia",
-        "nameGE": "მალაიზია"
+        "nameEN": "MARSHALL ISLANDS",
+        "nameGE": "მარშალის კუნძულები",
+        "emoji": "🇲🇭",
+        "code": "+692",
+        "shortName": "MH"
     },
     {
         "id": 145,
-        "shortName": "MZ",
-        "emoji": "🇲🇿",
-        "code": "+258",
-        "nameEN": "Mozambique",
-        "nameGE": "მოზამბიკი"
+        "nameEN": "MACEDONIA (Former Yugoslav Republic of Macedonia)",
+        "nameGE": "მაკედონია",
+        "emoji": "🇲🇰",
+        "code": "+389",
+        "shortName": "MK"
     },
     {
         "id": 146,
-        "shortName": "NA",
-        "emoji": "🇳🇦",
-        "code": "+264",
-        "nameEN": "Namibia",
-        "nameGE": "ნამიბია"
+        "nameEN": "MALI",
+        "nameGE": "მალი",
+        "emoji": "🇲🇱",
+        "code": "+223",
+        "shortName": "ML"
     },
     {
         "id": 147,
-        "shortName": "NC",
-        "emoji": "🇳🇨",
-        "code": "+687",
-        "nameEN": "New Caledonia",
-        "nameGE": "ახალი კალედონია"
+        "nameEN": "MYANMAR (formerly Burma)",
+        "nameGE": "მიანმა",
+        "emoji": "🇲🇲",
+        "code": "+95",
+        "shortName": "MM"
     },
     {
         "id": 148,
-        "shortName": "NE",
-        "emoji": "🇳🇪",
-        "code": "+227",
-        "nameEN": "Niger",
-        "nameGE": "ნიგერი"
+        "nameEN": "MONGOLIA",
+        "nameGE": "მონღოლეთი",
+        "emoji": "🇲🇳",
+        "code": "+976",
+        "shortName": "MN"
     },
     {
         "id": 149,
-        "shortName": "NF",
-        "emoji": "🇳🇫",
-        "code": "+672",
-        "nameEN": "Norfolk Island",
-        "nameGE": "ნორფოლკი"
+        "nameEN": "MACAO (Special Administrative Region of China)",
+        "nameGE": "მაკაო",
+        "emoji": "🇲🇴",
+        "code": "+853",
+        "shortName": "MO"
     },
     {
         "id": 150,
-        "shortName": "NG",
-        "emoji": "🇳🇬",
-        "code": "+234",
-        "nameEN": "Nigeria",
-        "nameGE": "ნიგერია"
+        "nameEN": "NORTHERN MARIANA ISLANDS",
+        "nameGE": "ჩრდილოეთ მარიანის კუნძულები",
+        "emoji": "🇲🇵",
+        "code": "+1670",
+        "shortName": "MP"
     },
     {
         "id": 151,
-        "shortName": "NI",
-        "emoji": "🇳🇮",
-        "code": "+505",
-        "nameEN": "Nicaragua",
-        "nameGE": "ნიკარაგუა"
+        "nameEN": "MARTINIQUE",
+        "nameGE": "მარტინიკა",
+        "emoji": null,
+        "code": null,
+        "shortName": "MQ"
     },
     {
         "id": 152,
-        "shortName": "NL",
-        "emoji": "🇳🇱",
-        "code": "+31",
-        "nameEN": "Netherlands",
-        "nameGE": "ნიდერლანდები"
+        "nameEN": "MAURITANIA",
+        "nameGE": "მავრიტანია",
+        "emoji": "🇲🇷",
+        "code": "+222",
+        "shortName": "MR"
     },
     {
         "id": 153,
-        "shortName": "NO",
-        "emoji": "🇳🇴",
-        "code": "+47",
-        "nameEN": "Norway",
-        "nameGE": "ნორვეგია"
+        "nameEN": "MONTSERRAT",
+        "nameGE": "მონტსერატი",
+        "emoji": "🇲🇸",
+        "code": "+1664",
+        "shortName": "MS"
     },
     {
         "id": 154,
-        "shortName": "NP",
-        "emoji": "🇳🇵",
-        "code": "+977",
-        "nameEN": "Nepal",
-        "nameGE": "ნეპალი"
+        "nameEN": "MALTA",
+        "nameGE": "მალტა",
+        "emoji": "🇲🇹",
+        "code": "+356",
+        "shortName": "MT"
     },
     {
         "id": 155,
-        "shortName": "NR",
-        "emoji": "🇳🇷",
-        "code": "+674",
-        "nameEN": "Nauru",
-        "nameGE": "ნაურუ"
+        "nameEN": "MAURITIUS",
+        "nameGE": "მავრიკი",
+        "emoji": "🇲🇺",
+        "code": "+230",
+        "shortName": "MU"
     },
     {
         "id": 156,
-        "shortName": "NU",
-        "emoji": "🇳🇺",
-        "code": "+683",
-        "nameEN": "Niue",
-        "nameGE": "ნიუე"
+        "nameEN": "MALDIVES",
+        "nameGE": "მალდივები",
+        "emoji": "🇲🇻",
+        "code": "+960",
+        "shortName": "MV"
     },
     {
         "id": 157,
-        "shortName": "NZ",
-        "emoji": "🇳🇿",
-        "code": "+64",
-        "nameEN": "New Zealand",
-        "nameGE": "ახალი ზელანფია"
+        "nameEN": "MALAWI",
+        "nameGE": "მალავი",
+        "emoji": "🇲🇼",
+        "code": "+265",
+        "shortName": "MW"
     },
     {
         "id": 158,
-        "shortName": "OM",
-        "emoji": "🇴🇲",
-        "code": "+968",
-        "nameEN": "Oman",
-        "nameGE": "ომანი"
+        "nameEN": "MEXICO",
+        "nameGE": "მექსიკა",
+        "emoji": "🇲🇽",
+        "code": "+52",
+        "shortName": "MX"
     },
     {
         "id": 159,
-        "shortName": "PA",
-        "emoji": "🇵🇦",
-        "code": "+507",
-        "nameEN": "Panama",
-        "nameGE": "პანამა"
+        "nameEN": "MALAYSIA",
+        "nameGE": "მალაიზია",
+        "emoji": "🇲🇾",
+        "code": "+60",
+        "shortName": "MY"
     },
     {
         "id": 160,
-        "shortName": "PE",
-        "emoji": "🇵🇪",
-        "code": "+51",
-        "nameEN": "Peru",
-        "nameGE": "პერუ"
+        "nameEN": "MOZAMBIQUE (Moçambique)",
+        "nameGE": "მოზამბიკი",
+        "emoji": "🇲🇿",
+        "code": "+258",
+        "shortName": "MZ"
     },
     {
         "id": 161,
-        "shortName": "PF",
-        "emoji": "🇵🇫",
-        "code": "+689",
-        "nameEN": "French Polynesia",
-        "nameGE": "საფრანგეთის პოლინეზია"
+        "nameEN": "NAMIBIA",
+        "nameGE": "ნამიბია",
+        "emoji": "🇳🇦",
+        "code": "+264",
+        "shortName": "NA"
     },
     {
         "id": 162,
-        "shortName": "PG",
-        "emoji": "🇵🇬",
-        "code": "+675",
-        "nameEN": "Papua New Guinea",
-        "nameGE": "პაპუა-ახალი გვინეა"
+        "nameEN": "NEW CALEDONIA",
+        "nameGE": "ახალი კალედონია",
+        "emoji": "🇳🇨",
+        "code": "+687",
+        "shortName": "NC"
     },
     {
         "id": 163,
-        "shortName": "PH",
-        "emoji": "🇵🇭",
-        "code": "+63",
-        "nameEN": "Philippines",
-        "nameGE": "ფილიპინები"
+        "nameEN": "NIGER",
+        "nameGE": "ნიგერი",
+        "emoji": "🇳🇪",
+        "code": "+227",
+        "shortName": "NE"
     },
     {
         "id": 164,
-        "shortName": "PK",
-        "emoji": "🇵🇰",
-        "code": "+92",
-        "nameEN": "Pakistan",
-        "nameGE": "პაკისტანი"
+        "nameEN": "NORFOLK ISLAND",
+        "nameGE": "ნორფოლკის კუნძული",
+        "emoji": "🇳🇫",
+        "code": "+672",
+        "shortName": "NF"
     },
     {
         "id": 165,
-        "shortName": "PL",
-        "emoji": "🇵🇱",
-        "code": "+48",
-        "nameEN": "Poland",
-        "nameGE": "პოლონეთი"
+        "nameEN": "NIGERIA",
+        "nameGE": "ნიგერია",
+        "emoji": "🇳🇬",
+        "code": "+234",
+        "shortName": "NG"
     },
     {
         "id": 166,
-        "shortName": "PM",
-        "emoji": "🇵🇲",
-        "code": "+508",
-        "nameEN": "St. Pierre & Miquelon",
-        "nameGE": "სენ-პიერი და მიკელონი"
+        "nameEN": "NICARAGUA",
+        "nameGE": "ნიკარაგუა",
+        "emoji": "🇳🇮",
+        "code": "+505",
+        "shortName": "NI"
     },
     {
         "id": 167,
-        "shortName": "PN",
-        "emoji": "🇵🇳",
-        "code": "+870",
-        "nameEN": "Pitcairn Islands",
-        "nameGE": "პიტკერნის კუნძულები"
+        "nameEN": "NETHERLANDS",
+        "nameGE": "ნიდერლანდები",
+        "emoji": "🇳🇱",
+        "code": "+31",
+        "shortName": "NL"
     },
     {
         "id": 168,
-        "shortName": "PR",
-        "emoji": "🇵🇷",
-        "code": "+1",
-        "nameEN": "Puerto Rico",
-        "nameGE": "პუერტო-რიკო"
+        "nameEN": "NORWAY",
+        "nameGE": "ნორვეგია",
+        "emoji": "🇳🇴",
+        "code": "+47",
+        "shortName": "NO"
     },
     {
         "id": 169,
-        "shortName": "PT",
-        "emoji": "🇵🇹",
-        "code": "+351",
-        "nameEN": "Portugal",
-        "nameGE": "პორტუგალია"
+        "nameEN": "NEPAL",
+        "nameGE": "ნეპალი",
+        "emoji": "🇳🇵",
+        "code": "+977",
+        "shortName": "NP"
     },
     {
         "id": 170,
-        "shortName": "PW",
-        "emoji": "🇵🇼",
-        "code": "+680",
-        "nameEN": "Palau",
-        "nameGE": "პალაუ"
+        "nameEN": "NAURU",
+        "nameGE": "ნაურუ",
+        "emoji": "🇳🇷",
+        "code": "+674",
+        "shortName": "NR"
     },
     {
         "id": 171,
-        "shortName": "PY",
-        "emoji": "🇵🇾",
-        "code": "+595",
-        "nameEN": "Paraguay",
-        "nameGE": "პარაგვაი"
+        "nameEN": "NIUE",
+        "nameGE": "ნიუე",
+        "emoji": "🇳🇺",
+        "code": "+683",
+        "shortName": "NU"
     },
     {
         "id": 172,
-        "shortName": "QA",
-        "emoji": "🇶🇦",
-        "code": "+974",
-        "nameEN": "Qatar",
-        "nameGE": "ყატარი"
+        "nameEN": "NEW ZEALAND",
+        "nameGE": "ახალი ზელანდია",
+        "emoji": "🇳🇿",
+        "code": "+64",
+        "shortName": "NZ"
     },
     {
         "id": 173,
-        "shortName": "RE",
-        "emoji": "🇷🇪",
-        "code": "+262",
-        "nameEN": "Réunion",
-        "nameGE": "რეიუნიონი"
+        "nameEN": "OMAN",
+        "nameGE": "ომანი",
+        "emoji": "🇴🇲",
+        "code": "+968",
+        "shortName": "OM"
     },
     {
         "id": 174,
-        "shortName": "RO",
-        "emoji": "🇷🇴",
-        "code": "+40",
-        "nameEN": "Romania",
-        "nameGE": "რუმინეთი"
+        "nameEN": "PANAMA",
+        "nameGE": "პანამა",
+        "emoji": "🇵🇦",
+        "code": "+507",
+        "shortName": "PA"
     },
     {
         "id": 175,
-        "shortName": "RS",
-        "emoji": "🇷🇸",
-        "code": "+381",
-        "nameEN": "Serbia",
-        "nameGE": "სერბეთი"
+        "nameEN": "PERU",
+        "nameGE": "პერუ",
+        "emoji": "🇵🇪",
+        "code": "+51",
+        "shortName": "PE"
     },
     {
         "id": 176,
-        "shortName": "RU",
-        "emoji": "🇷🇺",
-        "code": "+7",
-        "nameEN": "Russia",
-        "nameGE": "რუსეთი"
+        "nameEN": "FRENCH POLYNESIA",
+        "nameGE": "საფრანგეთის პოლინეზია",
+        "emoji": "🇵🇫",
+        "code": "+689",
+        "shortName": "PF"
     },
     {
         "id": 177,
-        "shortName": "RW",
-        "emoji": "🇷🇼",
-        "code": "+250",
-        "nameEN": "Rwanda",
-        "nameGE": "რუანდა"
+        "nameEN": "PAPUA NEW GUINEA",
+        "nameGE": "პაპუა - ახალი გვინეა",
+        "emoji": "🇵🇬",
+        "code": "+675",
+        "shortName": "PG"
     },
     {
         "id": 178,
-        "shortName": "SA",
-        "emoji": "🇸🇦",
-        "code": "+966",
-        "nameEN": "Saudi Arabia",
-        "nameGE": "საუდის არაბეთი"
+        "nameEN": "PHILIPPINES",
+        "nameGE": "ფილიპინები",
+        "emoji": "🇵🇭",
+        "code": "+63",
+        "shortName": "PH"
     },
     {
         "id": 179,
-        "shortName": "SB",
-        "emoji": "🇸🇧",
-        "code": "+677",
-        "nameEN": "Solomon Islands",
-        "nameGE": "სოლომონის კუნძულები"
+        "nameEN": "PAKISTAN",
+        "nameGE": "პაკისტანი",
+        "emoji": "🇵🇰",
+        "code": "+92",
+        "shortName": "PK"
     },
     {
         "id": 180,
-        "shortName": "SC",
-        "emoji": "🇸🇨",
-        "code": "+248",
-        "nameEN": "Seychelles",
-        "nameGE": "სეიშელის კუნძულები"
+        "nameEN": "POLAND",
+        "nameGE": "პოლონეთი",
+        "emoji": "🇵🇱",
+        "code": "+48",
+        "shortName": "PL"
     },
     {
         "id": 181,
-        "shortName": "SD",
-        "emoji": "🇸🇩",
-        "code": "+249",
-        "nameEN": "Sudan",
-        "nameGE": "სუდანი"
+        "nameEN": "SAINT PIERRE AND MIQUELON",
+        "nameGE": "სენტ-პიერი და მიქელონი",
+        "emoji": "🇵🇲",
+        "code": "+508",
+        "shortName": "PM"
     },
     {
         "id": 182,
-        "shortName": "SE",
-        "emoji": "🇸🇪",
-        "code": "+46",
-        "nameEN": "Sweden",
-        "nameGE": "შვედეთი"
+        "nameEN": "PITCAIRN",
+        "nameGE": "პიტკერნი",
+        "emoji": "🇵🇳",
+        "code": "+870",
+        "shortName": "PN"
     },
     {
         "id": 183,
-        "shortName": "SG",
-        "emoji": "🇸🇬",
-        "code": "+65",
-        "nameEN": "Singapore",
-        "nameGE": "სინგაპური"
+        "nameEN": "PUERTO RICO",
+        "nameGE": "პუერტო-რიკო",
+        "emoji": "🇵🇷",
+        "code": "+1",
+        "shortName": "PR"
     },
     {
         "id": 184,
-        "shortName": "SH",
-        "emoji": "🇸🇭",
-        "code": "+290",
-        "nameEN": "St. Helena",
-        "nameGE": "წმინდა ელენეს კუნძული"
+        "nameEN": "PALESTINIAN TERRITORIES",
+        "nameGE": "პალესტინის სახელმწიფო",
+        "emoji": null,
+        "code": null,
+        "shortName": "PS"
     },
     {
         "id": 185,
-        "shortName": "SI",
-        "emoji": "🇸🇮",
-        "code": "+386",
-        "nameEN": "Slovenia",
-        "nameGE": "სლოვენია"
+        "nameEN": "PORTUGAL",
+        "nameGE": "პორტუგალია",
+        "emoji": "🇵🇹",
+        "code": "+351",
+        "shortName": "PT"
     },
     {
         "id": 186,
-        "shortName": "SK",
-        "emoji": "🇸🇰",
-        "code": "+421",
-        "nameEN": "Slovakia",
-        "nameGE": "სლოვაკეთი"
+        "nameEN": "PALAU",
+        "nameGE": "პალაუ",
+        "emoji": "🇵🇼",
+        "code": "+680",
+        "shortName": "PW"
     },
     {
         "id": 187,
-        "shortName": "SL",
-        "emoji": "🇸🇱",
-        "code": "+232",
-        "nameEN": "Sierra Leone",
-        "nameGE": "სიერა-ლეონე"
+        "nameEN": "PARAGUAY",
+        "nameGE": "პარაგვაი",
+        "emoji": "🇵🇾",
+        "code": "+595",
+        "shortName": "PY"
     },
     {
         "id": 188,
-        "shortName": "SM",
-        "emoji": "🇸🇲",
-        "code": "+378",
-        "nameEN": "San Marino",
-        "nameGE": "სან-მარინო"
+        "nameEN": "QATAR",
+        "nameGE": "ყატარი",
+        "emoji": "🇶🇦",
+        "code": "+974",
+        "shortName": "QA"
     },
     {
         "id": 189,
-        "shortName": "SN",
-        "emoji": "🇸🇳",
-        "code": "+221",
-        "nameEN": "Senegal",
-        "nameGE": "სენეგალი"
+        "nameEN": "RიUNION",
+        "nameGE": "რეიუნიონი",
+        "emoji": "🇷🇪",
+        "code": "+262",
+        "shortName": "RE"
     },
     {
         "id": 190,
-        "shortName": "SO",
-        "emoji": "🇸🇴",
-        "code": "+252",
-        "nameEN": "Somalia",
-        "nameGE": "სომალი"
+        "nameEN": "ROMANIA",
+        "nameGE": "რუმინეთი",
+        "emoji": "🇷🇴",
+        "code": "+40",
+        "shortName": "RO"
     },
     {
         "id": 191,
-        "shortName": "SR",
-        "emoji": "🇸🇷",
-        "code": "+597",
-        "nameEN": "Suriname",
-        "nameGE": "სურინამი"
+        "nameEN": "SERBIA (Republic of Serbia)",
+        "nameGE": "სერბეთი",
+        "emoji": "🇷🇸",
+        "code": "+381",
+        "shortName": "RS"
     },
     {
         "id": 192,
-        "shortName": "SS",
-        "emoji": "🇸🇸",
-        "code": "+211",
-        "nameEN": "South Sudan",
-        "nameGE": "სამხრეთ სუდანი"
+        "nameEN": "RUSSIAN FEDERATION",
+        "nameGE": "რუსეთის ფედერაცია",
+        "emoji": "🇷🇺",
+        "code": "+7",
+        "shortName": "RU"
     },
     {
         "id": 193,
-        "shortName": "ST",
-        "emoji": "🇸🇹",
-        "code": "+239",
-        "nameEN": "São Tomé & Príncipe",
-        "nameGE": "სან-ტომე და პრინსიპი"
+        "nameEN": "RWANDA",
+        "nameGE": "რუანდა",
+        "emoji": "🇷🇼",
+        "code": "+250",
+        "shortName": "RW"
     },
     {
         "id": 194,
-        "shortName": "SV",
-        "emoji": "🇸🇻",
-        "code": "+503",
-        "nameEN": "El Salvador",
-        "nameGE": "სალვადორი"
+        "nameEN": "SAUDI ARABIA (Kingdom of Saudi Arabia)",
+        "nameGE": "საუდის არაბეთი",
+        "emoji": "🇸🇦",
+        "code": "+966",
+        "shortName": "SA"
     },
     {
         "id": 195,
-        "shortName": "SY",
-        "emoji": "🇸🇾",
-        "code": "+963",
-        "nameEN": "Syria",
-        "nameGE": "სირია"
+        "nameEN": "SOLOMON ISLANDS",
+        "nameGE": "სოლომონის კუნძულები",
+        "emoji": "🇸🇧",
+        "code": "+677",
+        "shortName": "SB"
     },
     {
         "id": 196,
-        "shortName": "SZ",
-        "emoji": "🇸🇿",
-        "code": "+268",
-        "nameEN": "Swaziland",
-        "nameGE": "სვაზილენდი"
+        "nameEN": "SEYCHELLES",
+        "nameGE": "სეიშელები",
+        "emoji": "🇸🇨",
+        "code": "+248",
+        "shortName": "SC"
     },
     {
         "id": 197,
-        "shortName": "TG",
-        "emoji": "🇹🇬",
-        "code": "+228",
-        "nameEN": "Togo",
-        "nameGE": "ტოგო"
+        "nameEN": "SUDAN",
+        "nameGE": "სუდანი",
+        "emoji": "🇸🇩",
+        "code": "+249",
+        "shortName": "SD"
     },
     {
         "id": 198,
-        "shortName": "TH",
-        "emoji": "🇹🇭",
-        "code": "+66",
-        "nameEN": "Thailand",
-        "nameGE": "ტაილანდი"
+        "nameEN": "SWEDEN",
+        "nameGE": "შვედეთი",
+        "emoji": "🇸🇪",
+        "code": "+46",
+        "shortName": "SE"
     },
     {
         "id": 199,
-        "shortName": "TJ",
-        "emoji": "🇹🇯",
-        "code": "+992",
-        "nameEN": "Tajikistan",
-        "nameGE": "ტაჯიკეთი"
+        "nameEN": "SINGAPORE",
+        "nameGE": "სინგაპური",
+        "emoji": "🇸🇬",
+        "code": "+65",
+        "shortName": "SG"
     },
     {
         "id": 200,
-        "shortName": "TK",
-        "emoji": "🇹🇰",
-        "code": "+690",
-        "nameEN": "Tokelau",
-        "nameGE": "ტოკელაუ"
+        "nameEN": "SAINT HELENA",
+        "nameGE": "სენტელენა",
+        "emoji": "🇸🇭",
+        "code": "+290",
+        "shortName": "SH"
     },
     {
         "id": 201,
-        "shortName": "TL",
-        "emoji": "🇹🇱",
-        "code": "+670",
-        "nameEN": "Timor-Leste",
-        "nameGE": "აღმოსავლეთი ტიმორი"
+        "nameEN": "SLOVENIA",
+        "nameGE": "სლოვენია",
+        "emoji": "🇸🇮",
+        "code": "+386",
+        "shortName": "SI"
     },
     {
         "id": 202,
-        "shortName": "TM",
-        "emoji": "🇹🇲",
-        "code": "+993",
-        "nameEN": "Turkmenistan",
-        "nameGE": "თურქმენეთი"
+        "nameEN": "SVALBARD AND JAN MAYEN",
+        "nameGE": "სვალბარდი-იან-მაიენი",
+        "emoji": null,
+        "code": null,
+        "shortName": "SJ"
     },
     {
         "id": 203,
-        "shortName": "TN",
-        "emoji": "🇹🇳",
-        "code": "+216",
-        "nameEN": "Tunisia",
-        "nameGE": "ტუნისი"
+        "nameEN": "SLOVAKIA (Slovak Republic)",
+        "nameGE": "სლოვაკეთი",
+        "emoji": "🇸🇰",
+        "code": "+421",
+        "shortName": "SK"
     },
     {
         "id": 204,
-        "shortName": "TR",
-        "emoji": "🇹🇷",
-        "code": "+90",
-        "nameEN": "Turkey",
-        "nameGE": "თურქეთი"
+        "nameEN": "SIERRA LEONE",
+        "nameGE": "სიერა-ლეონე",
+        "emoji": "🇸🇱",
+        "code": "+232",
+        "shortName": "SL"
     },
     {
         "id": 205,
-        "shortName": "TT",
-        "emoji": "🇹🇹",
-        "code": "+1",
-        "nameEN": "Trinidad & Tobago",
-        "nameGE": "ტრინიდადი და ტობაგო"
+        "nameEN": "SAN MARINO (Republic of)",
+        "nameGE": "სან-მარინო",
+        "emoji": "🇸🇲",
+        "code": "+378",
+        "shortName": "SM"
     },
     {
         "id": 206,
-        "shortName": "TV",
-        "emoji": "🇹🇻",
-        "code": "+688",
-        "nameEN": "Tuvalu",
-        "nameGE": "ტუვალუ"
+        "nameEN": "SENEGAL",
+        "nameGE": "სენეგალი",
+        "emoji": "🇸🇳",
+        "code": "+221",
+        "shortName": "SN"
     },
     {
         "id": 207,
-        "shortName": "TW",
-        "emoji": "🇹🇼",
-        "code": "+886",
-        "nameEN": "Taiwan",
-        "nameGE": "ტაივანი"
+        "nameEN": "SOMALIA",
+        "nameGE": "სომალი",
+        "emoji": "🇸🇴",
+        "code": "+252",
+        "shortName": "SO"
     },
     {
         "id": 208,
-        "shortName": "TZ",
-        "emoji": "🇹🇿",
-        "code": "+255",
-        "nameEN": "Tanzania",
-        "nameGE": "ტანზანია"
+        "nameEN": "SURINAME",
+        "nameGE": "სურინამი",
+        "emoji": "🇸🇷",
+        "code": "+597",
+        "shortName": "SR"
     },
     {
         "id": 209,
-        "shortName": "UA",
-        "emoji": "🇺🇦",
-        "code": "+380",
-        "nameEN": "Ukraine",
-        "nameGE": "უკრაინა"
+        "nameEN": "SOUTH SUDAN",
+        "nameGE": "სამხრეთ სუდანი",
+        "emoji": "🇸🇸",
+        "code": "+211",
+        "shortName": "SS"
     },
     {
         "id": 210,
-        "shortName": "UG",
-        "emoji": "🇺🇬",
-        "code": "+256",
-        "nameEN": "Uganda",
-        "nameGE": "უგანდა"
+        "nameEN": "SAO TOME AND PRINCIPE",
+        "nameGE": "საუტომა-პრენსიპა",
+        "emoji": "🇸🇹",
+        "code": "+239",
+        "shortName": "ST"
     },
     {
         "id": 211,
-        "shortName": "US",
-        "emoji": "🇺🇸",
-        "code": "+1",
-        "nameEN": "United States",
-        "nameGE": "შეერთებული შტატები"
+        "nameEN": "EL SALVADOR",
+        "nameGE": "სალვადორი",
+        "emoji": "🇸🇻",
+        "code": "+503",
+        "shortName": "SV"
     },
     {
         "id": 212,
-        "shortName": "UY",
-        "emoji": "🇺🇾",
-        "code": "+598",
-        "nameEN": "Uruguay",
-        "nameGE": "ურუგვაი"
+        "nameEN": "SINT MAARTEN",
+        "nameGE": "სინტ-მარტენი (ნიდერლანდების ნაწილი)",
+        "emoji": null,
+        "code": null,
+        "shortName": "SX"
     },
     {
         "id": 213,
-        "shortName": "UZ",
-        "emoji": "🇺🇿",
-        "code": "+998",
-        "nameEN": "Uzbekistan",
-        "nameGE": "უზბეკეთი"
+        "nameEN": "SYRIAN ARAB REPUBLIC",
+        "nameGE": "სირიის არაბთა რესპუბლიკა",
+        "emoji": "🇸🇾",
+        "code": "+963",
+        "shortName": "SY"
     },
     {
         "id": 214,
-        "shortName": "VA",
-        "emoji": "🇻🇦",
-        "code": "+39",
-        "nameEN": "Vatican City",
-        "nameGE": "ვატიკანი"
+        "nameEN": "SWAZILAND",
+        "nameGE": "სვაზილენდი",
+        "emoji": "🇸🇿",
+        "code": "+268",
+        "shortName": "SZ"
     },
     {
         "id": 215,
-        "shortName": "VC",
-        "emoji": "🇻🇨",
-        "code": "+1",
-        "nameEN": "St. Vincent & Grenadines",
-        "nameGE": "სენტ-ვინსენტი და გრენადინები"
+        "nameEN": "TURKS AND CAICOS ISLANDS",
+        "nameGE": "ტერკს-კაიკოსის კუნძულები",
+        "emoji": null,
+        "code": null,
+        "shortName": "TC"
     },
     {
         "id": 216,
-        "shortName": "VE",
-        "emoji": "🇻🇪",
-        "code": "+58",
-        "nameEN": "Venezuela",
-        "nameGE": "ვენესუელა"
+        "nameEN": "CHAD (Tchad)",
+        "nameGE": "ჩადი",
+        "emoji": null,
+        "code": null,
+        "shortName": "TD"
     },
     {
         "id": 217,
-        "shortName": "VG",
-        "emoji": "🇻🇬",
-        "code": "+1284",
-        "nameEN": "British Virgin Islands",
-        "nameGE": "ბრიტანეთის ვირჯინის კუნძულები"
+        "nameEN": "FRENCH SOUTHERN TERRITORIES",
+        "nameGE": "საფრანგეთის სამხრეთ ტერიტორიები",
+        "emoji": null,
+        "code": null,
+        "shortName": "TF"
     },
     {
         "id": 218,
-        "shortName": "VN",
-        "emoji": "🇻🇳",
-        "code": "+84",
-        "nameEN": "Vietnam",
-        "nameGE": "ვიეტნამი"
+        "nameEN": "TOGO",
+        "nameGE": "ტოგო",
+        "emoji": "🇹🇬",
+        "code": "+228",
+        "shortName": "TG"
     },
     {
         "id": 219,
-        "shortName": "VU",
-        "emoji": "🇻🇺",
-        "code": "+678",
-        "nameEN": "Vanuatu",
-        "nameGE": "ვანუატუ"
+        "nameEN": "THAILAND",
+        "nameGE": "ტაილანდი",
+        "emoji": "🇹🇭",
+        "code": "+66",
+        "shortName": "TH"
     },
     {
         "id": 220,
-        "shortName": "WS",
-        "emoji": "🇼🇸",
-        "code": "+685",
-        "nameEN": "Samoa",
-        "nameGE": "სამოა"
+        "nameEN": "TAJIKISTAN",
+        "nameGE": "ტაჯიკეთი",
+        "emoji": "🇹🇯",
+        "code": "+992",
+        "shortName": "TJ"
     },
     {
         "id": 221,
-        "shortName": "XK",
-        "emoji": "🇽🇰",
-        "code": "+381",
-        "nameEN": "Kosovo",
-        "nameGE": "კოსოვო"
+        "nameEN": "TOKELAU",
+        "nameGE": "ტოკელაუ",
+        "emoji": "🇹🇰",
+        "code": "+690",
+        "shortName": "TK"
     },
     {
         "id": 222,
-        "shortName": "YE",
-        "emoji": "🇾🇪",
-        "code": "+967",
-        "nameEN": "Yemen",
-        "nameGE": "იემენი"
+        "nameEN": "TIMOR-LESTE (formerly East Timor)",
+        "nameGE": "ტიმორ-ლესტე",
+        "emoji": "🇹🇱",
+        "code": "+670",
+        "shortName": "TL"
     },
     {
         "id": 223,
-        "shortName": "ZA",
-        "emoji": "🇿🇦",
-        "code": "+27",
-        "nameEN": "South Africa",
-        "nameGE": "სამხრეთ აფრიკა"
+        "nameEN": "TURKMENISTAN",
+        "nameGE": "თურქმენეთი",
+        "emoji": "🇹🇲",
+        "code": "+993",
+        "shortName": "TM"
     },
     {
         "id": 224,
-        "shortName": "ZM",
-        "emoji": "🇿🇲",
-        "code": "+260",
-        "nameEN": "Zambia",
-        "nameGE": "ზამბია"
+        "nameEN": "TUNISIA",
+        "nameGE": "ტუნისი",
+        "emoji": "🇹🇳",
+        "code": "+216",
+        "shortName": "TN"
     },
     {
         "id": 225,
-        "shortName": "ZW",
+        "nameEN": "TONGA",
+        "nameGE": "ტონგა",
+        "emoji": null,
+        "code": null,
+        "shortName": "TO"
+    },
+    {
+        "id": 226,
+        "nameEN": "TURKEY",
+        "nameGE": "თურქეთი",
+        "emoji": "🇹🇷",
+        "code": "+90",
+        "shortName": "TR"
+    },
+    {
+        "id": 227,
+        "nameEN": "TRINIDAD AND TOBAGO",
+        "nameGE": "ტრინიდად-ტობაგო",
+        "emoji": "🇹🇹",
+        "code": "+1",
+        "shortName": "TT"
+    },
+    {
+        "id": 228,
+        "nameEN": "TUVALU",
+        "nameGE": "ტუვალუ",
+        "emoji": "🇹🇻",
+        "code": "+688",
+        "shortName": "TV"
+    },
+    {
+        "id": 229,
+        "nameEN": "TAIWAN (\"Chinese Taipei\" for IOC)",
+        "nameGE": "ტაივანი, ჩინეთის პროვინცია",
+        "emoji": "🇹🇼",
+        "code": "+886",
+        "shortName": "TW"
+    },
+    {
+        "id": 230,
+        "nameEN": "TANZANIA",
+        "nameGE": "ტანზანიის გაერთიანებული რესპუბლიკა",
+        "emoji": "🇹🇿",
+        "code": "+255",
+        "shortName": "TZ"
+    },
+    {
+        "id": 231,
+        "nameEN": "UKRAINE",
+        "nameGE": "უკრაინა",
+        "emoji": "🇺🇦",
+        "code": "+380",
+        "shortName": "UA"
+    },
+    {
+        "id": 232,
+        "nameEN": "UGANDA",
+        "nameGE": "უგანდა",
+        "emoji": "🇺🇬",
+        "code": "+256",
+        "shortName": "UG"
+    },
+    {
+        "id": 233,
+        "nameEN": "UNITED STATES MINOR OUTLYING ISLANDS",
+        "nameGE": "შეერთებული შტატების შორსმდებარე მცირე კუნძულები",
+        "emoji": null,
+        "code": null,
+        "shortName": "UM"
+    },
+    {
+        "id": 234,
+        "nameEN": "UNITED STATES",
+        "nameGE": "აშშ",
+        "emoji": "🇺🇸",
+        "code": "+1",
+        "shortName": "US"
+    },
+    {
+        "id": 235,
+        "nameEN": "URUGUAY",
+        "nameGE": "ურუგვაი",
+        "emoji": "🇺🇾",
+        "code": "+598",
+        "shortName": "UY"
+    },
+    {
+        "id": 236,
+        "nameEN": "UZBEKISTAN",
+        "nameGE": "უზბეკეთი",
+        "emoji": "🇺🇿",
+        "code": "+998",
+        "shortName": "UZ"
+    },
+    {
+        "id": 237,
+        "nameEN": "VATICAN CITY (Holy See)",
+        "nameGE": "ვატიკანი, ქალაქი-სახელმწიფო",
+        "emoji": "🇻🇦",
+        "code": "+39",
+        "shortName": "VA"
+    },
+    {
+        "id": 238,
+        "nameEN": "SAINT VINCENT AND THE GRENADINES",
+        "nameGE": "სენტ-ვინსენტ-გრენადინები",
+        "emoji": "🇻🇨",
+        "code": "+1",
+        "shortName": "VC"
+    },
+    {
+        "id": 239,
+        "nameEN": "VENEZUELA",
+        "nameGE": "ვენესუელა",
+        "emoji": "🇻🇪",
+        "code": "+58",
+        "shortName": "VE"
+    },
+    {
+        "id": 240,
+        "nameEN": "VIRGIN ISLANDS, BRITISH",
+        "nameGE": "ვირჯინიის კუნძულები (ბრიტ.)",
+        "emoji": "🇻🇬",
+        "code": "+1284",
+        "shortName": "VG"
+    },
+    {
+        "id": 241,
+        "nameEN": "VIRGIN ISLANDS, U.S.",
+        "nameGE": "ვირჯინიის კუნძულები (აშშ)",
+        "emoji": null,
+        "code": null,
+        "shortName": "VI"
+    },
+    {
+        "id": 242,
+        "nameEN": "VIET NAM",
+        "nameGE": "ვიეტნამი",
+        "emoji": "🇻🇳",
+        "code": "+84",
+        "shortName": "VN"
+    },
+    {
+        "id": 243,
+        "nameEN": "VANUATU",
+        "nameGE": "ვანუატუ",
+        "emoji": "🇻🇺",
+        "code": "+678",
+        "shortName": "VU"
+    },
+    {
+        "id": 244,
+        "nameEN": "WALLIS AND FUTUNA",
+        "nameGE": "უოლის-ფუტუნა",
+        "emoji": null,
+        "code": null,
+        "shortName": "WF"
+    },
+    {
+        "id": 245,
+        "nameEN": "SAMOA (formerly Western Samoa)",
+        "nameGE": "სამოა",
+        "emoji": "🇼🇸",
+        "code": "+685",
+        "shortName": "WS"
+    },
+    {
+        "id": 246,
+        "nameEN": "YEMEN (Yemen Arab Republic)",
+        "nameGE": "იემენი",
+        "emoji": "🇾🇪",
+        "code": "+967",
+        "shortName": "YE"
+    },
+    {
+        "id": 247,
+        "nameEN": "MAYOTTE",
+        "nameGE": "მეიოტი",
+        "emoji": null,
+        "code": null,
+        "shortName": "YT"
+    },
+    {
+        "id": 248,
+        "nameEN": "SOUTH AFRICA (Zuid Afrika)",
+        "nameGE": "სამხრეთ აფრიკა",
+        "emoji": "🇿🇦",
+        "code": "+27",
+        "shortName": "ZA"
+    },
+    {
+        "id": 249,
+        "nameEN": "ZAMBIA (formerly Northern Rhodesia)",
+        "nameGE": "ზამბია",
+        "emoji": "🇿🇲",
+        "code": "+260",
+        "shortName": "ZM"
+    },
+    {
+        "id": 250,
+        "nameEN": "ZIMBABWE",
+        "nameGE": "ზიმბაბვე",
         "emoji": "🇿🇼",
         "code": "+263",
-        "nameEN": "Zimbabwe",
-        "nameGE": "ზიმბაბვე"
+        "shortName": "ZW"
     }
 ]

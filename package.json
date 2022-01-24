@@ -1,6 +1,6 @@
 {
   "name": "countries-list-as-georgian",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Countries list with flags ( English/Georgian )",
   "main": "index.js",
   "scripts": {
