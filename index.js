@@ -27,7 +27,7 @@ export default [
         "id": 4,
         "nameEN": "ANTIGUA AND BARBUDA",
         "nameGE": "ანტიგუა-ბარბუდა",
-        "emoji": null,
+        "emoji": '🇦🇬',
         "code": null,
         "shortName": "AG"
     },
