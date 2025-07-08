@@ -23,6 +23,6 @@ PNPM install countries-list-as-georgian
 
 import countries, {countriesByShortName} from 'countries-list-as-georgian'
 
-console.log(countries, countriesByShortName('GE'))
+console.log(countries, countriesByShortName['GE'])
 
 ```
